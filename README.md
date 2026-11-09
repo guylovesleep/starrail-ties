@@ -2,6 +2,8 @@
 
 An unofficial, English-language relationship map for **Honkai: Star Rail**, inspired by [Genshin Ties](https://ties.catforest.dev/en/genshin).
 
+**Live site:** <https://guylovesleep.github.io/starrail-ties/>
+
 Every playable character sits on a ring. Each thread is one character talking about another in their in-game **"About …"** archive voice line. Pick a character to see who they mention. Pick a second to read what each of them says about the other — and, where a recording exists, hear the two lines played as a conversation.
 
 ![The full character web](docs/preview-home.png)
