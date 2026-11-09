@@ -1,0 +1,545 @@
+{
+ "Asta": {
+  "world": "Herta Space Station",
+  "faction": "Herta Space Station"
+ },
+ "Arlan": {
+  "world": "Herta Space Station",
+  "faction": "Herta Space Station"
+ },
+ "Argenti": {
+  "faction": "Knights of Beauty"
+ },
+ "Aventurine": {
+  "world": "Sigonia-IV",
+  "faction": "Interastral Peace Corporation",
+  "faction2": "Strategic Investment Department",
+  "faction3": "Ten Stonehearts"
+ },
+ "Acheron": {
+  "world": "Izumo",
+  "faction": "Self-Annihilators",
+  "faction2": "Galaxy Rangers"
+ },
+ "Archer": {
+  "world": "Another World",
+  "faction": "Another World"
+ },
+ "Aglaea": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Okhema",
+  "faction4": "Titans"
+ },
+ "Anaxa": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Grove of Epiphany",
+  "faction4": "Nousporists",
+  "faction5": "Venerationists",
+  "faction6": "Seven Sages",
+  "faction7": "Titans"
+ },
+ "Ashveil": {
+  "world": "Planarcadia",
+  "faction": "Galaxy Rangers",
+  "faction2": "Planarcadia",
+  "faction3": "Ashen Detective Agency"
+ },
+ "Aventurine • Waveflair": {
+  "world": "Sigonia-IV",
+  "faction": "Interastral Peace Corporation",
+  "faction2": "Strategic Investment Department",
+  "faction3": "Ten Stonehearts"
+ },
+ "Clara": {
+  "world": "Jarilo-VI",
+  "faction": "Belobog",
+  "faction2": "Svarog's Scavengers",
+  "faction3": "The Moles"
+ },
+ "Bronya": {
+  "world": "Jarilo-VI",
+  "faction": "Belobog",
+  "faction2": "Silvermane Guards",
+  "faction3": "Supreme Guardian"
+ },
+ "Blade": {
+  "faction": "Stellaron Hunters",
+  "faction2": "High-Cloud Quintet"
+ },
+ "Bailu": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "Alchemy Commission",
+  "faction3": "High Elders"
+ },
+ "Black Swan": {
+  "faction": "Garden of Recollection"
+ },
+ "Boothill": {
+  "world": "Aeragan-Epharshel",
+  "faction": "Galaxy Rangers"
+ },
+ "Castorice": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Styxia",
+  "faction4": "Aidonia",
+  "faction5": "Okhema",
+  "faction6": "Grove of Epiphany",
+  "faction7": "Nousporists",
+  "faction8": "Titans"
+ },
+ "Cyrene": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Aedes Elysiae",
+  "faction4": "Janusopolis",
+  "faction5": "Pure Children of Anāsrava",
+  "faction6": "Titans"
+ },
+ "Cipher": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Dolos",
+  "faction4": "Okhema",
+  "faction5": "Three Hundred Rogues of Dolos",
+  "faction6": "Titans"
+ },
+ "Cerydra": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Okhema",
+  "faction4": "Hyperborea",
+  "faction5": "Titans"
+ },
+ "Dan Heng": {
+  "world": "Astral Express",
+  "faction": "Astral Express",
+  "faction2": "The Nameless"
+ },
+ "Fu Xuan": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "The Xianzhou Yuque",
+  "faction3": "Xianzhou Alliance",
+  "faction4": "Six Charioteers",
+  "faction5": "Divination Commission"
+ },
+ "Feixiao": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Yaoqing",
+  "faction2": "Xianzhou Alliance",
+  "faction3": "Six Charioteers",
+  "faction4": "Cloud Knights",
+  "faction5": "Verdant Knights",
+  "faction6": "Arbiter-Generals",
+  "faction7": "Eclipse Pack"
+ },
+ "Dan Heng • Imbibitor Lunae": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "The Nameless",
+  "faction3": "Astral Express"
+ },
+ "Dr. Ratio": {
+  "faction": "Intelligentsia Guild",
+  "faction2": "Council of Mundanites",
+  "faction3": "University of Veritas Prime"
+ },
+ "Firefly": {
+  "world": "Glamoth",
+  "faction": "Stellaron Hunters",
+  "faction2": "Iron Cavalry"
+ },
+ "Fugue": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu"
+ },
+ "Evernight": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Pure Children of Anāsrava"
+ },
+ "Dan Heng • Permansor Terrae": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Astral Express",
+  "faction4": "The Nameless",
+  "faction5": "Titans"
+ },
+ "Evanescia": {
+  "world": "Planarcadia",
+  "faction": "Planarcadia",
+  "faction2": "Elixir Seekers"
+ },
+ "Himeko": {
+  "world": "Astral Express",
+  "faction": "Astral Express",
+  "faction2": "The Nameless",
+  "faction3": "Graphia Family",
+  "faction4": "Dovebrook District"
+ },
+ "Gepard": {
+  "world": "Jarilo-VI",
+  "faction": "Belobog",
+  "faction2": "Silvermane Guards",
+  "faction3": "Landau Family"
+ },
+ "Hook": {
+  "world": "Jarilo-VI",
+  "faction": "Belobog",
+  "faction2": "The Moles"
+ },
+ "Herta": {
+  "world": "Herta Space Station",
+  "faction": "Herta Space Station",
+  "faction2": "Genius Society"
+ },
+ "Guinaifen": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "Ghost-Hunting Squad"
+ },
+ "Huohuo": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "Ten-Lords Commission",
+  "faction3": "Ghost-Hunting Squad"
+ },
+ "Hanya": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "Ten-Lords Commission"
+ },
+ "Gallagher": {
+  "world": "Penacony",
+  "faction": "Penacony",
+  "faction2": "Bloodhound Family",
+  "faction3": "History Fictionologists"
+ },
+ "Himeko • Nova": {
+  "world": "Astral Express",
+  "faction": "Astral Express",
+  "faction2": "The Nameless",
+  "faction3": "Graphia Family",
+  "faction4": "Dovebrook District"
+ },
+ "Gilgamesh": {
+  "world": "Another World",
+  "faction": "Another World"
+ },
+ "Kafka": {
+  "world": "Pteruges-V",
+  "faction": "Stellaron Hunters"
+ },
+ "Luocha": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "The Xianzhou Yuque"
+ },
+ "Jing Yuan": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "Xianzhou Alliance",
+  "faction3": "Six Charioteers",
+  "faction4": "Cloud Knights",
+  "faction5": "Arbiter-Generals",
+  "faction6": "High-Cloud Quintet"
+ },
+ "Jingliu": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "The Xianzhou Cangcheng",
+  "faction3": "Cloud Knights",
+  "faction4": "High-Cloud Quintet"
+ },
+ "Luka": {
+  "world": "Jarilo-VI",
+  "faction": "Belobog",
+  "faction2": "Wildfire",
+  "faction3": "The Moles"
+ },
+ "Jade": {
+  "faction": "Interastral Peace Corporation",
+  "faction2": "Strategic Investment Department",
+  "faction3": "Ten Stonehearts"
+ },
+ "Jiaoqiu": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Yaoqing",
+  "faction2": "Xianzhou Alliance",
+  "faction3": "Alchemy Commission"
+ },
+ "Lingsha": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "Xianzhou Alliance",
+  "faction3": "Six Charioteers",
+  "faction4": "Alchemy Commission"
+ },
+ "Hyacine": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Twilight Courtyard",
+  "faction4": "Grove of Epiphany",
+  "faction5": "Nousporists",
+  "faction6": "Okhema",
+  "faction7": "Titans"
+ },
+ "Hysilens": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Titankin",
+  "faction4": "Styxia",
+  "faction5": "Okhema",
+  "faction6": "The Five Gourmet Overlords",
+  "faction7": "Titans"
+ },
+ "March 7th": {
+  "world": "Astral Express",
+  "faction": "Astral Express",
+  "faction2": "The Nameless",
+  "faction3": "The Moles",
+  "faction4": "Slumbernana Association",
+  "faction5": "Chrysos Heirs",
+  "faction6": "Pure Children of Anāsrava",
+  "faction7": "Titans"
+ },
+ "Natasha": {
+  "world": "Jarilo-VI",
+  "faction": "Belobog",
+  "faction2": "Wildfire",
+  "faction3": "Silvermane Guards"
+ },
+ "Pela": {
+  "world": "Jarilo-VI",
+  "faction": "Belobog",
+  "faction2": "Mechanical Fever",
+  "faction3": "Silvermane Guards"
+ },
+ "Lynx": {
+  "world": "Jarilo-VI",
+  "faction": "Belobog",
+  "faction2": "Landau Family",
+  "faction3": "Mechanical Fever"
+ },
+ "Misha": {
+  "world": "Penacony",
+  "faction": "Penacony",
+  "faction2": "The Nameless"
+ },
+ "Pearl": {
+  "world": "Planarcadia",
+  "faction": "Interastral Peace Corporation",
+  "faction2": "Strategic Investment Department",
+  "faction3": "Ten Stonehearts",
+  "faction4": "Planarcadia",
+  "faction5": "Pearluxe Corp"
+ },
+ "Moze": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Yaoqing",
+  "faction2": "Xianzhou Alliance",
+  "faction3": "Shadow Guard",
+  "faction4": "Disciples of Sanctus Medicus"
+ },
+ "Mydei": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Castrum Kremnos",
+  "faction4": "Kremnoan Detachment",
+  "faction5": "Kremnoan Dynasty",
+  "faction6": "Okhema",
+  "faction7": "Titans"
+ },
+ "Phainon": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Aedes Elysiae",
+  "faction4": "Okhema",
+  "faction5": "Grove of Epiphany",
+  "faction6": "Nousporists"
+ },
+ "Mortenax Blade": {
+  "faction": "Stellaron Hunters",
+  "faction2": "High-Cloud Quintet"
+ },
+ "Seele": {
+  "world": "Jarilo-VI",
+  "faction": "Belobog",
+  "faction2": "Wildfire"
+ },
+ "Sampo": {
+  "world": "Jarilo-VI",
+  "faction": "Belobog",
+  "faction2": "Wildfire",
+  "faction3": "Masked Fools"
+ },
+ "Serval": {
+  "world": "Jarilo-VI",
+  "faction": "Belobog",
+  "faction2": "Landau Family",
+  "faction3": "Mechanical Fever",
+  "faction4": "Silvermane Guards"
+ },
+ "Ruan Mei": {
+  "world": "Herta Space Station",
+  "faction": "Herta Space Station",
+  "faction2": "Genius Society"
+ },
+ "Qingque": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "Divination Commission"
+ },
+ "Robin": {
+  "world": "Penacony",
+  "faction": "Penacony",
+  "faction2": "The Family",
+  "faction3": "Oak Family"
+ },
+ "Rappa": {
+  "faction": "Galaxy Rangers"
+ },
+ "Saber": {
+  "world": "Another World",
+  "faction": "Another World"
+ },
+ "Rin Tohsaka": {
+  "world": "Another World",
+  "faction": "Another World",
+  "faction2": "Tohsaka Family"
+ },
+ "Robin • Summeretto": {
+  "world": "Penacony",
+  "faction": "Penacony",
+  "faction2": "The Family",
+  "faction3": "Oak Family"
+ },
+ "Silver Wolf": {
+  "world": "Punklorde",
+  "faction": "Stellaron Hunters"
+ },
+ "Sushang": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "The Xianzhou Yaoqing",
+  "faction3": "Xianzhou Alliance",
+  "faction4": "Cloud Knights",
+  "faction5": "Ghost-Hunting Squad"
+ },
+ "Tingyun": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "Sky-Faring Commission"
+ },
+ "Topaz & Numby": {
+  "faction": "Interastral Peace Corporation",
+  "faction2": "Strategic Investment Department",
+  "faction3": "Ten Stonehearts"
+ },
+ "Sparkle": {
+  "faction": "Masked Fools"
+ },
+ "Sunday": {
+  "world": "Astral Express",
+  "faction": "Astral Express",
+  "faction2": "The Nameless",
+  "faction3": "Cosmos",
+  "faction4": "Penacony",
+  "faction5": "The Family",
+  "faction6": "Oak Family"
+ },
+ "The Herta": {
+  "world": "Herta Space Station",
+  "faction": "Herta Space Station",
+  "faction2": "Genius Society"
+ },
+ "The Dahlia": {
+  "faction": "The Cremators",
+  "faction2": "Annihilation Gang",
+  "faction3": "Ever-Flame Mansion",
+  "faction4": "Garden of Recollection"
+ },
+ "Sparxie": {
+  "world": "Planarcadia",
+  "faction": "Masked Fools"
+ },
+ "Silver Wolf LV.999": {
+  "world": "Punklorde",
+  "faction": "Stellaron Hunters"
+ },
+ "Welt": {
+  "world": "Astral Express",
+  "faction": "Astral Express",
+  "faction2": "The Nameless",
+  "faction3": "Anti-Entropy"
+ },
+ "Trailblazer": {
+  "world": "Astral Express",
+  "faction": "Astral Express",
+  "faction2": "The Nameless",
+  "faction3": "Stellaron Hunters",
+  "faction4": "The Moles",
+  "faction5": "Ghost-Hunting Squad",
+  "faction6": "Chrysos Heirs",
+  "faction7": "Titans",
+  "faction8": "Furbobo Weekly"
+ },
+ "Yanqing": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "Xianzhou Alliance",
+  "faction3": "Cloud Knights"
+ },
+ "Yukong": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "Xianzhou Alliance",
+  "faction3": "Six Charioteers",
+  "faction4": "Sky-Faring Commission"
+ },
+ "Xueyi": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Luofu",
+  "faction2": "Ten-Lords Commission"
+ },
+ "Yao Guang": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Yuque",
+  "faction2": "Xianzhou Alliance",
+  "faction3": "Six Charioteers",
+  "faction4": "Cloud Knights",
+  "faction5": "Arbiter-Generals"
+ },
+ "Yunli": {
+  "world": "Xianzhou Alliance",
+  "faction": "The Xianzhou Zhuming",
+  "faction2": "Xianzhou Alliance",
+  "faction3": "Cloud Knights",
+  "faction4": "Flamewheel Octet",
+  "faction5": "Artisanship Commission"
+ },
+ "Tribbie": {
+  "world": "Amphoreus",
+  "faction": "Amphoreus",
+  "faction2": "Chrysos Heirs",
+  "faction3": "Janusopolis",
+  "faction4": "Okhema",
+  "faction5": "Titans"
+ }
+}

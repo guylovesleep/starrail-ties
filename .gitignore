@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local scrape cache and build logs
+cache/
+build.log
+
+# OS
+.DS_Store
+Thumbs.db
